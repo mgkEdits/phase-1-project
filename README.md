@@ -47,7 +47,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone git@github.com:mgkEdits/phase-1-project.git
    ```
 
 2. Open the project folder in your code editor of choice.
