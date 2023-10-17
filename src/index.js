@@ -95,6 +95,83 @@ const init = () => {
   
         });
     })
+
+    //event listener for F1 Championship
+    document.getElementById('f1Championship').addEventListener('click', (event) =>{
+      event.preventDefault();
+      fetch(`http://localhost:3000/race`)
+        .then(res => res.json())
+        .then(raceData => {
+          // Create a map to store driver data
+          const driverDataMap = new Map();
+
+          // Iterate through the race data
+          raceData.forEach((race) => {
+            if (Array.isArray(race.raceResults)) {
+              race.raceResults.forEach((result) => {
+              const driverName = result.driverName;
+              const pointsAwarded = result.pointsAwarded;
+
+              // Check if the driver is already in the map
+              if (driverDataMap.has(driverName)) {
+                  // Update the driver's total points
+                  driverDataMap.get(driverName).totalPoints += pointsAwarded;
+                } else {
+                  // Add the driver to the map
+                  driverDataMap.set(driverName, {
+                    driverName: driverName,
+                    totalPoints: pointsAwarded,
+                  });
+                }
+              });
+            }
+          });
+
+          /// Convert the map values to an array
+          const driverDataArray = Array.from(driverDataMap.values());
+
+          // Sort the driver data by total points in descending order
+          driverDataArray.sort((a, b) => b.totalPoints - a.totalPoints);
+
+          // Add a position rank to each driver based on total points
+          driverDataArray.forEach((driver, index) => {
+            driver.position = index + 1;
+          });
+
+          // Create a table to display the driver data
+          const table = document.createElement('table');
+          table.className = 'styled-table';
+          const thead = table.createTHead();
+          const tbody = table.createTBody();
+          const headerPositions = ['Position', 'Driver Name', 'Total Points'];
+
+          const headerRow = thead.insertRow();
+          headerPositions.forEach((headerText) => {
+            const th = document.createElement('th');
+            th.textContent = headerText;
+            headerRow.appendChild(th);
+          });
+
+          // Create table rows for each driver
+          driverDataArray.forEach((driver) => {
+            const row = tbody.insertRow();
+            [driver.position, driver.driverName, driver.totalPoints].forEach((value) => {
+              const cell = row.insertCell();
+              cell.textContent = value;
+            });
+          });
+
+          // Display the table in the HTML
+          sectionTitle.textContent = `Driver Championship`;
+          sectionTitle.setAttribute('data-title', '2023 F1 Championship Standing');
+
+          table.appendChild(thead);
+          table.appendChild(tbody);
+          trackCircuits2023.innerHTML = ''; // Clear any previous content
+          trackCircuits2023.appendChild(table);
+  
+        });
+    })
    
     // Function to create a card for a track
     function createTrackCircuitCards(track){
