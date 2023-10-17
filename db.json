@@ -1,0 +1,3207 @@
+{
+  "race": [
+    {
+      "race_name": "Pre-Season Testing",
+      "race_date": "23 - 25 February 2023",
+      "race_track": "Bahrain International Circuit",
+      "race_img": "./img/logo.png",
+      "country": "Bahrain",
+      "Fastest_lap":" ",
+      "raceResults": " "
+    },
+    {
+      "race_name": "Bahrain Grand Prix",
+      "race_date": "3 - 5 March 2023",
+      "race_track": "Bahrain International Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "Bahrain",
+      "Fastest_lap": {
+        "driverName": "Zhou",
+        "teamName": "ALFA ROMEO FERRARI",
+        "time": "1:33.996"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 57,
+          "timeIndex": "1:33:56.736",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 57,
+          "timeIndex": "+11.987s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 57,
+          "timeIndex": "+38.637s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 57,
+          "timeIndex": "+48.052s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 57,
+          "timeIndex": "+50.977s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 57,
+          "timeIndex": "+54.502s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 57,
+          "timeIndex": "+55.873s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 57,
+          "timeIndex": "+72.647s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 57,
+          "timeIndex": "+73.753s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 57,
+          "timeIndex": "+89.774s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 57,
+          "timeIndex": "+90.870s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 55,
+          "timeIndex": "+2 laps",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 41,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 39,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 13,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Saudi Arabian Grand Prix",
+      "race_date": "17 - 19 March 2023",
+      "race_track": "Jeddah Corniche Circuit",
+      "country":  "Saudi Arabia",
+      "race_img": "./img/logo.png",
+      "Fastest_lap": {
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:31.906"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 50,
+          "timeIndex": "1:21:14.894",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 50,
+          "timeIndex": "+5.355s",
+          "pointsAwarded": 19
+        },
+        {
+          "position": 3,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 50,
+          "timeIndex": "+20.728s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 50,
+          "timeIndex": "+25.866s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 50,
+          "timeIndex": "+31.065s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 50,
+          "timeIndex": "+35.876s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 50,
+          "timeIndex": "+43.162s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 50,
+          "timeIndex": "+52.832s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 50,
+          "timeIndex": "+54.747s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 50,
+          "timeIndex": "+64.826s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 50,
+          "timeIndex": "+67.494s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 50,
+          "timeIndex": "+70.588s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 50,
+          "timeIndex": "+76.060s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 50,
+          "timeIndex": "+77.478s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 50,
+          "timeIndex": "+85.021s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 50,
+          "timeIndex": "+86.293s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 50,
+          "timeIndex": "+86.445s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 49,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 27,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 16,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Australian Grand Prix",
+      "race_date": "31 March - 1 April 2023",
+      "race_track": "Melbourne Grand Prix Circuit",
+      "race_img": "./img/logo.png",
+      "country": "Australia",
+      "Fastest_lap": {
+        "driverName": "Perez",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:20.235"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 58,
+          "timeIndex": "2:32:38.371",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 58,
+          "timeIndex": "+0.179s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 58,
+          "timeIndex": "+0.769s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 58,
+          "timeIndex": "+3.082s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 58,
+          "timeIndex": "+3.320s",
+          "pointsAwarded": 11
+        },
+        {
+          "position": 6,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 58,
+          "timeIndex": "+3.701s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 58,
+          "timeIndex": "+4.939s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 58,
+          "timeIndex": "+5.382s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 58,
+          "timeIndex": "+5.713s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 58,
+          "timeIndex": "+6.052s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 58,
+          "timeIndex": "+6.513s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 58,
+          "timeIndex": "+6.594s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 56,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 56,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 56,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 56,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 52,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 17,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 6,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 0,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Azerbaijan Grand Prix",
+      "race_date": "28 - 30 April 2023",
+      "race_track": "Baku City Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "Azerbaijan",
+      "Fastest_lap":{
+        "driverName": "Russell",
+        "teamName": "MERCEDES",
+        "time": "1:43.370"
+      },  
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 51,
+          "timeIndex": "1:32:42.436",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 51,
+          "timeIndex": "+2.137s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 51,
+          "timeIndex": "+21.217s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 51,
+          "timeIndex": "+22.024s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 51,
+          "timeIndex": "+45.491s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 51,
+          "timeIndex": "+46.145s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 51,
+          "timeIndex": "+51.617s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 51,
+          "timeIndex": "+74.240s",
+          "pointsAwarded": 5
+        },
+        {
+          "position": 9,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 51,
+          "timeIndex": "+80.376s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 51,
+          "timeIndex": "+83.862s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 51,
+          "timeIndex": "+86.501s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 51,
+          "timeIndex": "+88.623s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 51,
+          "timeIndex": "+89.729s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 51,
+          "timeIndex": "+91.332s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 51,
+          "timeIndex": "+97.794s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 51,
+          "timeIndex": "+100.943s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 50,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 50,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 36,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 9,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Miami Grand Prix",
+      "race_date": "5 - 7 May 2023",
+      "race_track": "Miami International Autodrome",
+      "race_img": "./img/logo.png",
+      "country": "United States",
+      "Fastest_lap":{
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:29.708"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 57,
+          "timeIndex": "1:27:38.241",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 57,
+          "timeIndex": "+5.384s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 57,
+          "timeIndex": "+26.305s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 57,
+          "timeIndex": "+33.229s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 57,
+          "timeIndex": "+42.511s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 57,
+          "timeIndex": "+51.249s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 57,
+          "timeIndex": "+52.988s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 57,
+          "timeIndex": "+55.670s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 57,
+          "timeIndex": "+58.123s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 57,
+          "timeIndex": "+62.945s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 57,
+          "timeIndex": "+64.309s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 57,
+          "timeIndex": "+64.754s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 57,
+          "timeIndex": "+71.637s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 57,
+          "timeIndex": "+72.861s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 57,
+          "timeIndex": "+74.950s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 57,
+          "timeIndex": "+78.440s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 57,
+          "timeIndex": "+87.717s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 57,
+          "timeIndex": "+88.949s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "race_date": "26 - 28 May 2023",
+      "race_track": "Circuit de Monaco",
+      "race_img": "./img/logo.png",
+      "country":  "Monaco",
+      "Fastest_lap": {
+        "driverName": "Hamilton",
+        "teamName": "MERCEDES",
+        "time": "1:15.650"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 78,
+          "timeIndex": "1:48:51.980",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 78,
+          "timeIndex": "+27.921s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 78,
+          "timeIndex": "+36.990s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 78,
+          "timeIndex": "+39.062s",
+          "pointsAwarded": 13
+        },
+        {
+          "position": 5,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 78,
+          "timeIndex": "+56.284s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 78,
+          "timeIndex": "+61.890s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 78,
+          "timeIndex": "+62.362s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 78,
+          "timeIndex": "+63.391s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 77,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 76,
+          "timeIndex": "+2 laps",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 76,
+          "timeIndex": "+2 laps",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 76,
+          "timeIndex": "+2 laps",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 76,
+          "timeIndex": "+2 laps",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 70,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Spanish Grand Prix",
+      "race_date": "2 - 4 June 2023",
+      "race_track": "Circuit de Barcelona-Catalunya",
+      "race_img": "./img/logo.png",
+      "country":  "Spain",
+      "Fastest_lap":{
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:16.330"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 66,
+          "timeIndex": "1:27:57.940",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 66,
+          "timeIndex": "+24.090s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 66,
+          "timeIndex": "+32.389s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 66,
+          "timeIndex": "+35.812s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 66,
+          "timeIndex": "+45.698s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 66,
+          "timeIndex": "+63.320s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 66,
+          "timeIndex": "+64.127s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 66,
+          "timeIndex": "+69.242s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 66,
+          "timeIndex": "+71.878s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 66,
+          "timeIndex": "+73.530s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 66,
+          "timeIndex": "+74.419s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 66,
+          "timeIndex": "+75.416s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 65,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "race_date": "16 - 18 June 2023",
+      "race_track": "Circuit Gilles Villeneuve",
+      "race_img": "./img/logo.png",
+      "Fastest_lap": {
+        "driverName": "Perez",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:14.481"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 70,
+          "timeIndex": "1:33:58.348",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 70,
+          "timeIndex": "+9.570s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 70,
+          "timeIndex": "+14.168s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 70,
+          "timeIndex": "+18.648s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 70,
+          "timeIndex": "+21.540s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 70,
+          "timeIndex": "+51.028s",
+          "pointsAwarded": 9
+        },
+        {
+          "position": 7,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 70,
+          "timeIndex": "+60.813s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 70,
+          "timeIndex": "+61.692s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 70,
+          "timeIndex": "+64.402s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 70,
+          "timeIndex": "+64.432s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 70,
+          "timeIndex": "+65.101s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 70,
+          "timeIndex": "+65.249s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 70,
+          "timeIndex": "+68.363s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 70,
+          "timeIndex": "+73.423s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 53,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 6,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Austrian Grand Prix",
+      "race_date": "30 June - 2 July 2023",
+      "race_track": "Red Bull Ring",
+      "race_img": "./img/logo.png",
+      "country":  "Austria",
+      "Fastest_lap":{
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:07.012"
+      },  
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 71,
+          "timeIndex": "1:25:33.607",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 71,
+          "timeIndex": "+5.155s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 71,
+          "timeIndex": "+17.188s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 71,
+          "timeIndex": "+26.327s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 71,
+          "timeIndex": "+30.317s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 71,
+          "timeIndex": "+31.377s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 71,
+          "timeIndex": "+48.403s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 71,
+          "timeIndex": "+49.196s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 71,
+          "timeIndex": "+59.043s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 71,
+          "timeIndex": "+67.667s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 71,
+          "timeIndex": "+79.767s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 70,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 12,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "British Grand Prix",
+      "race_date": "7 - 9 July 2023",
+      "race_track": "Silverstone Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "United Kingdom",
+      "Fastest_lap": {
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:30.275"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 52,
+          "timeIndex": "1:25:16.938",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 52,
+          "timeIndex": "+3.798s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 52,
+          "timeIndex": "+6.783s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 52,
+          "timeIndex": "+7.776s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 52,
+          "timeIndex": "+11.206s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 52,
+          "timeIndex": "+12.882s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 52,
+          "timeIndex": "+17.193s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 52,
+          "timeIndex": "+17.878s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 52,
+          "timeIndex": "+18.689s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 52,
+          "timeIndex": "+19.448s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 52,
+          "timeIndex": "+23.632s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 52,
+          "timeIndex": "+25.830s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 52,
+          "timeIndex": "+26.663s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 52,
+          "timeIndex": "+27.483s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 52,
+          "timeIndex": "+29.820s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 52,
+          "timeIndex": "+31.225s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 21,
+          "driverName": "De Vries",
+          "lapsCompleted": 52,
+          "timeIndex": "+33.128s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 46,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 31,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 9,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Hungarian Grand Prix",
+      "race_date": "21 - 23 July 2023",
+      "race_track": "Hungaroring",
+      "race_img":"./img/logo.png",
+      "country":  "Hungary",
+      "Fastest_lap":{
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:20.504"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 70,
+          "timeIndex": "1:38:08.634",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 70,
+          "timeIndex": "+33.731s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 70,
+          "timeIndex": "+37.603s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 70,
+          "timeIndex": "+39.134s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 70,
+          "timeIndex": "+62.572s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 70,
+          "timeIndex": "+65.825s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 70,
+          "timeIndex": "+70.317s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 70,
+          "timeIndex": "+71.073s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 70,
+          "timeIndex": "+75.709s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 3,
+          "driverName": "Ricciardo",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 69,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 67,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 2,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 1,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "race_date": "28 - 30 July 2023",
+      "race_track": "Circuit de Spa-Francorchamps",
+      "race_img": "./img/logo.png",
+      "country":  "Belgium",
+      "Fastest_lap":{
+        "driverName": "Hamilton",
+        "teamName": "MERCEDES",
+        "time": "1:47.305"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 44,
+          "timeIndex": "1:22:30.450",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 44,
+          "timeIndex": "+22.305s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 44,
+          "timeIndex": "+32.259s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 44,
+          "timeIndex": "+49.671s",
+          "pointsAwarded": 13
+        },
+        {
+          "position": 5,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 44,
+          "timeIndex": "+56.184s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 44,
+          "timeIndex": "+63.101s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 44,
+          "timeIndex": "+73.719s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 44,
+          "timeIndex": "+74.719s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 44,
+          "timeIndex": "+79.340s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 44,
+          "timeIndex": "+80.221s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 44,
+          "timeIndex": "+83.084s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 44,
+          "timeIndex": "+85.191s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 44,
+          "timeIndex": "+95.441s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 44,
+          "timeIndex": "+96.184s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 44,
+          "timeIndex": "+101.754s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 3,
+          "driverName": "Ricciardo",
+          "lapsCompleted": 44,
+          "timeIndex": "+103.071s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 44,
+          "timeIndex": "+104.476s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 44,
+          "timeIndex": "+110.450s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 23,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 0,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Dutch Grand Prix",
+      "race_date": "25 - 27 August 2023",
+      "race_track": "Circuit Zandvoort",
+      "race_img": "./img/logo.png",
+      "country":  "Netherlands",
+      "Fastest_lap": {
+        "driverName": "Alonso",
+        "teamName": "ASTON MARTIN ARAMCO MERCEDES",
+        "time": "1:13.837"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 72,
+          "timeIndex": "2:24:04.411",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 72,
+          "timeIndex": "+3.744s",
+          "pointsAwarded": 19
+        },
+        {
+          "position": 3,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 72,
+          "timeIndex": "+7.058s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 72,
+          "timeIndex": "+10.068s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 72,
+          "timeIndex": "+12.541s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 72,
+          "timeIndex": "+13.209s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 72,
+          "timeIndex": "+13.232s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 72,
+          "timeIndex": "+15.155s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 72,
+          "timeIndex": "+16.580s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 72,
+          "timeIndex": "+18.346s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 72,
+          "timeIndex": "+20.087s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 72,
+          "timeIndex": "+20.840s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 40,
+          "driverName": "Lawson",
+          "lapsCompleted": 72,
+          "timeIndex": "+26.147s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 72,
+          "timeIndex": "+27.388s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 72,
+          "timeIndex": "+29.893s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 72,
+          "timeIndex": "+31.410s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 72,
+          "timeIndex": "+55.754s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 62,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 41,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 14,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "race_date": "1 - 3 September 2023",
+      "race_track": "Autodromo Nazionale Monza",
+      "race_img": "./img/logo.png",
+      "country":  "Italy",
+      "Fastest_lap": {
+        "driverName": "Piastri",
+        "teamName": "MCLAREN MERCEDES",
+        "time": "1:25.072"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 51,
+          "timeIndex": "1:13:41.143",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 51,
+          "timeIndex": "+6.064s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 51,
+          "timeIndex": "+11.193s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 51,
+          "timeIndex": "+11.377s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 51,
+          "timeIndex": "+23.028s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 51,
+          "timeIndex": "+42.679s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 51,
+          "timeIndex": "+45.106s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 51,
+          "timeIndex": "+45.449s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 51,
+          "timeIndex": "+46.294s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 51,
+          "timeIndex": "+64.056s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 40,
+          "driverName": "Lawson",
+          "lapsCompleted": 51,
+          "timeIndex": "+70.638s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 51,
+          "timeIndex": "+73.074s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 51,
+          "timeIndex": "+78.557s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 51,
+          "timeIndex": "+80.164s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 51,
+          "timeIndex": "+82.510s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 51,
+          "timeIndex": "+87.266s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 50,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 50,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 39,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 0,
+          "timeIndex": "DNS",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Singapore Grand Prix",
+      "race_date": "15 - 17 September 2023",
+      "race_track": "Marina Bay Street Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "Singapore",
+      "Fastest_lap": {
+        "driverName": "Hamilton",
+        "teamName": "MERCEDES",
+        "time": "1:35.867"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 62,
+          "timeIndex": "1:46:37.418",
+          "pointsAwarded": 25
+        },
+        {
+          "position": 2,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 62,
+          "timeIndex": "+0.812s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 62,
+          "timeIndex": "+1.269s",
+          "pointsAwarded": 16
+        },
+        {
+          "position": 4,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 62,
+          "timeIndex": "+21.177s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 62,
+          "timeIndex": "+21.441s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 62,
+          "timeIndex": "+38.441s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 62,
+          "timeIndex": "+41.479s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 62,
+          "timeIndex": "+59.534s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 40,
+          "driverName": "Lawson",
+          "lapsCompleted": 62,
+          "timeIndex": "+65.918s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 62,
+          "timeIndex": "+72.116s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 62,
+          "timeIndex": "+73.417s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 62,
+          "timeIndex": "+83.649s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 62,
+          "timeIndex": "+86.201s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 62,
+          "timeIndex": "+86.889s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 62,
+          "timeIndex": "+87.603s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 51,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 42,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 0,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Japanese Grand Prix",
+      "race_date": "22 - 24 September 2023",
+      "race_track": "Suzuka International Racing Course",
+      "race_img":"./img/logo.png",
+      "country":  "Japan",
+      "Fastest_lap": {
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:34.183"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 53,
+          "timeIndex": "1:30:58.421",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 53,
+          "timeIndex": "+19.387s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 53,
+          "timeIndex": "+36.494s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 53,
+          "timeIndex": "+43.998s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 53,
+          "timeIndex": "+49.376s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 53,
+          "timeIndex": "+50.221s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 53,
+          "timeIndex": "+57.659s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 53,
+          "timeIndex": "+74.725s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 53,
+          "timeIndex": "+79.678s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 53,
+          "timeIndex": "+83.155s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 40,
+          "driverName": "Lawson",
+          "lapsCompleted": 52,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 52,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 52,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 52,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 52,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 26,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 22,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 20,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 15,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": "NC",
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 7,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "Qatar Grand Prix",
+      "race_date": "6 - 8 October 2023",
+      "race_track": "Lusail International Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "Qatar",
+      "Fastest_lap":{
+        "driverName": "Verstappen",
+        "teamName": "RED BULL RACING HONDA RBPT",
+        "time": "1:24.319"
+      },
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 1,
+          "driverName": "Verstappen",
+          "lapsCompleted": 57,
+          "timeIndex": "1:27:39.168",
+          "pointsAwarded": 26
+        },
+        {
+          "position": 2,
+          "driverNumber": 81,
+          "driverName": "Piastri",
+          "lapsCompleted": 57,
+          "timeIndex": "+4.833s",
+          "pointsAwarded": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 4,
+          "driverName": "Norris",
+          "lapsCompleted": 57,
+          "timeIndex": "+5.969s",
+          "pointsAwarded": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 63,
+          "driverName": "Russell",
+          "lapsCompleted": 57,
+          "timeIndex": "+34.119s",
+          "pointsAwarded": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 16,
+          "driverName": "Leclerc",
+          "lapsCompleted": 57,
+          "timeIndex": "+38.976s",
+          "pointsAwarded": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 14,
+          "driverName": "Alonso",
+          "lapsCompleted": 57,
+          "timeIndex": "+49.032s",
+          "pointsAwarded": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 31,
+          "driverName": "Ocon",
+          "lapsCompleted": 57,
+          "timeIndex": "+62.390s",
+          "pointsAwarded": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 77,
+          "driverName": "Bottas",
+          "lapsCompleted": 57,
+          "timeIndex": "+66.563s",
+          "pointsAwarded": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 24,
+          "driverName": "Zhou",
+          "lapsCompleted": 57,
+          "timeIndex": "+76.127s",
+          "pointsAwarded": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 11,
+          "driverName": "Perez",
+          "lapsCompleted": 57,
+          "timeIndex": "+80.181s",
+          "pointsAwarded": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 18,
+          "driverName": "Stroll",
+          "lapsCompleted": 57,
+          "timeIndex": "+81.652s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 10,
+          "driverName": "Gasly",
+          "lapsCompleted": 57,
+          "timeIndex": "+82.300s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 23,
+          "driverName": "Albon",
+          "lapsCompleted": 57,
+          "timeIndex": "+91.014s",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 20,
+          "driverName": "Magnussen",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 22,
+          "driverName": "Tsunoda",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 27,
+          "driverName": "Hulkenberg",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 40,
+          "driverName": "Lawson",
+          "lapsCompleted": 56,
+          "timeIndex": "+1 lap",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 2,
+          "driverName": "Sargeant",
+          "lapsCompleted": 40,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 44,
+          "driverName": "Hamilton",
+          "lapsCompleted": 0,
+          "timeIndex": "DNF",
+          "pointsAwarded": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 55,
+          "driverName": "Sainz",
+          "lapsCompleted": 0,
+          "timeIndex": "DNS",
+          "pointsAwarded": 0
+        }
+      ]
+    },
+    {
+      "race_name": "United States Grand Prix",
+      "race_date": "20 - 22 October 2023",
+      "race_track": "Circuit of the Americas",
+      "race_img": "./img/logo.png",
+      "country":  "United States"
+    },
+    {
+      "race_name": "Mexico City Grand Prix",
+      "race_date": "27 - 29 October",
+      "race_track": "Autodromo Hermanos Rodriguez",
+      "race_img": "./img/logo.png",
+      "country":  "Mexico"
+    },
+    {
+      "race_name": "São Paulo Grand Prix",
+      "race_date": "3 - 5 November 2023",
+      "race_track": "Autódromo José Carlos Pace",
+      "race_img": "./img/logo.png",
+      "country":  "Brazil"
+    },
+    {
+      "race_name": "Las Vegas Grand Prix",
+      "race_date": "16 - 18 November 2023",
+      "race_track": "Las Vegas Grand Prix",
+      "race_img": "./img/logo.png",
+      "country":  "United States"
+    },
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "race_date": "24 - 26 November 2023",
+      "race_track": "Yas Marina Circuit",
+      "race_img": "./img/logo.png",
+      "country":  "United Arab Emirates"
+    }
+  ],
+  "teams": [
+    {
+      "country": "Italy",
+      "teamName": "FERRARI",
+      "majorSponsor": "Ferrari",
+      "callName": "Ferrari"
+    },
+    {
+      "country":  "United Kingdom",
+      "teamName": "ASTON MARTIN ARAMCO MERCEDES",
+      "majorSponsor": "Aston Martin",
+      "callName": "Aston Martin"
+    },
+    {
+      "country": "United States",
+      "teamName": "HAAS FERRARI",
+      "majorSponsor": "Haas Ferrari",
+      "callName": "Haas"
+    },
+    {
+      "country": "United Kingdom",
+      "teamName": "MCLAREN MERCEDES",
+      "majorSponsor": "McLaren Honda",
+      "callName": "McLaren"
+    },
+    {
+      "country": "Germany",
+      "teamName": "MERCEDES",
+      "majorSponsor": "Mercedes",
+      "callName": "Mercedes"
+    },
+    {
+      "country": "United Kingdom",
+      "teamName": "ALPINE RENAULT",
+      "majorSponsor": "Racing Point",
+      "callName": "Alpine"
+    },
+    {
+      "country": "Austria",
+      "teamName": "RED BULL RACING HONDA RBPT",
+      "majorSponsor": "Red Bull Racing TAG Heuer",
+      "callName": "Red Bull Racing"
+    },
+    {
+      "country": "Switzerland",
+      "teamName": "ALFA ROMEO FERRARI",
+      "majorSponsor": "Alfa Romeo",
+      "callName": "Alfa Romeo"
+    },
+    {
+      "country": "Italy",
+      "teamName": "ALPHATAURI HONDA RBPT",
+      "majorSponsor": "AlphaTauri",
+      "callName": "AlphaTauri"
+    },
+    {
+      "country": "United Kingdom",
+      "teamName": "WILLIAMS MERCEDES",
+      "majorSponsor": "Williams Mercedes",
+      "callName": "Williams"
+    }
+  ],
+  "constructorsStandings": [
+    {
+      "position": 1,
+      "teamName": "RED BULL RACING HONDA RBPT",
+      "points": 657
+    },
+    {
+      "position": 2,
+      "teamName": "MERCEDES",
+      "points": 326
+    },
+    {
+      "position": 3,
+      "teamName": "FERRARI",
+      "points": 298
+    },
+    {
+      "position": 4,
+      "teamName": "ASTON MARTIN ARAMCO MERCEDES",
+      "points": 230
+    },
+    {
+      "position": 5,
+      "teamName": "MCLAREN MERCEDES",
+      "points": 219
+    },
+    {
+      "position": 6,
+      "teamName": "ALPINE RENAULT",
+      "points": 90
+    },
+    {
+      "position": 7,
+      "teamName": "WILLIAMS MERCEDES",
+      "points": 23
+    },
+    {
+      "position": 8,
+      "teamName": "ALFA ROMEO FERRARI",
+      "points": 16
+    },
+    {
+      "position": 9,
+      "teamName": "HAAS FERRARI",
+      "points": 12
+    },
+    {
+      "position": 10,
+      "teamName": "ALPHATAURI HONDA RBPT",
+      "points": 5
+    }
+  ],
+  "drivers": [
+    {
+      "driverName": "Max Verstappen",
+      "nationality": "NED",
+      "teamName": "RED BULL RACING HONDA RBPT"
+    },
+    {
+      "driverName": "Sergio Perez",
+      "nationality": "MEX",
+      "teamName": "RED BULL RACING HONDA RBPT"
+    },
+    {
+      "driverName": "Lewis Hamilton",
+      "nationality": "GBR",
+      "teamName": "MERCEDES"
+    },
+    {
+      "driverName": "Fernando Alonso",
+      "nationality": "ESP",
+      "teamName": "ASTON MARTIN ARAMCO MERCEDES"
+    },
+    {
+      "driverName": "Carlos Sainz",
+      "nationality": "ESP",
+      "teamName": "FERRARI"
+    },
+    {
+      "driverName": "Charles Leclerc",
+      "nationality": "MON",
+      "teamName": "FERRARI"
+    },
+    {
+      "driverName": "Lando Norris",
+      "nationality": "GBR",
+      "teamName": "MCLAREN MERCEDES"
+    },
+    {
+      "driverName": "George Russell",
+      "nationality": "GBR",
+      "teamName": "MERCEDES"
+    },
+    {
+      "driverName": "Oscar Piastri",
+      "nationality": "AUS",
+      "teamName": "MCLAREN MERCEDES"
+    },
+    {
+      "driverName": "Lance Stroll",
+      "nationality": "CAN",
+      "teamName": "ASTON MARTIN ARAMCO MERCEDES"
+    },
+    {
+      "driverName": "Pierre Gasly",
+      "nationality": "FRA",
+      "teamName": "ALPINE RENAULT"
+    },
+    {
+      "driverName": "Esteban Ocon",
+      "nationality": "FRA",
+      "teamName": "ALPINE RENAULT"
+    },
+    {
+      "driverName": "Alexander Albon",
+      "nationality": "THA",
+      "teamName": "WILLIAMS MERCEDES"
+    },
+    {
+      "driverName": "Valtteri Bottas",
+      "nationality": "FIN",
+      "teamName": "ALFA ROMEO FERRARI"
+    },
+    {
+      "driverName": "Nico Hulkenberg",
+      "nationality": "GER",
+      "teamName": "HAAS FERRARI"
+    },
+    {
+      "driverName": "Zhou Guanyu",
+      "nationality": "CHN",
+      "teamName": "ALFA ROMEO FERRARI"
+    },
+    {
+      "driverName": "Yuki Tsunoda",
+      "nationality": "JPN",
+      "teamName": "ALPHATAURI HONDA RBPT"
+    },
+    {
+      "driverName": "Kevin Magnussen",
+      "nationality": "DEN",
+      "teamName": "HAAS FERRARI"
+    },
+    {
+      "driverName": "Liam Lawson",
+      "nationality": "NZL",
+      "teamName": "ALPHATAURI HONDA RBPT"
+    },
+    {
+      "driverName": "Logan Sargeant",
+      "nationality": "USA",
+      "teamName": "WILLIAMS MERCEDES"
+    },
+    {
+      "driverName": "Nyck De Vries",
+      "nationality": "NED",
+      "teamName": "ALPHATAURI HONDA RBPT"
+    },
+    {
+      "driverName": "Daniel Ricciardo",
+      "nationality": "AUS",
+      "teamName": "ALPHATAURI HONDA RBPT"
+    }
+  ]
+}
